@@ -1,7 +1,7 @@
 # tcga-skcm-survival-analysis
 ---
 ## Overview & Scientific Rationale
-This bioinformatics project evaluates the prognostic value of cytotoxic T-cell density (`CD8A`), immune checkpoint expression (`CD274`/PD-L1) and oncogenic mutations (`BRAF`) in cutaneous melanoma using the TCGA-SKCM cohort data from the National Cancer Institute GDC Data portal.
+This bioinformatics project evaluates the prognostic value of selected biomarkers (`CD8A`, `CD274`/PD-L1) alongside oncogenic mutations (`BRAF`) in cutaneous melanoma using the TCGA-SKCM cohort data from the National Cancer Institute GDC Data portal.
 
 This pipeline combines biomarker data with clinical survival outcomes to investigate how they interact in predicting overall survival against cutaneous melanoma.
 
