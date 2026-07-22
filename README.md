@@ -1,5 +1,4 @@
 # tcga-skcm-survival-analysis
-Evaluation of CD8A (T-cell), CD274/PD-L1 (checkpoint) and BRAF mutation status as prognostic markers in TCGA SKCM.
 ---
 
 ## Overview & Scientific Rationale
