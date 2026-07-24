@@ -30,12 +30,10 @@ tcga-skcm-survival-analysis/
 ├── README.md
 ├── requirements.txt
 │
-├── data/
+├── data-pipeline/
 │   ├── clinical.tsv
 │   ├── mutations.maf
-│
-├── notebooks/
-│   └── skcm_survival.ipynb   <-- Notebook used for analysis
+│   └── skcm_survival.ipynb   <-- script used for data analysis
 │
 └── figures/
     ├── km_braf_survival.png
